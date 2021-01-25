@@ -6,6 +6,10 @@
 
 ## Työjonot
 
+Tuotteen työjono
+
+Sprintin työjono
+
 ## Roolit
 
 ## Kokoukset
