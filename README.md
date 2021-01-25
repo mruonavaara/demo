@@ -12,6 +12,10 @@ Sprintin työjono
 
 ## Roolit
 
+Scrum Master
+
+Tuoteomistaja
+
 ## Kokoukset
 
 ## Miksi Scrum toimii?
